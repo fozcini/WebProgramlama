@@ -8,10 +8,11 @@ Tasarlayan: Furkan Emin Özçini
 
 # Dosyalar
 
-1. ...
-2. ...
-3. ...
- 
+1. css -> Stil şaplonlarını içeren klasör
+2. images -> Resim dosyalarını içeren klasör
+3. js -> Javascript dosyalarını içeren klasör
+4. webfonts -> Font dosyalarını içeren klasör
+5. index.html -> Websitesi anasayfası
 
 # Kullanılan Araçlar
 
